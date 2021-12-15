@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SwipeActivity</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="activity_1">Activity(1)</string>
+    <string name="activity_2">Activity(2)</string>
+    <string name="mainactivity">MainActivity</string>
+    <string name="go_to_screen_1">Go to screen 1</string>
+    <string name="go_to_screen_2">Go to screen 2</string>
+    <string name="go_to_screen_13">go to screen 1</string>
+    <string name="fs">go to screen 2</string>
+    <string name="sdsa">TODO</string>
+    <string name="vcvcvc">TODO</string>
+</resources>
